@@ -94,8 +94,8 @@ The interactive dashboard provides a visual narrative of the business.
 ### 📈 Visual Insights
 
 - **Category Dominance:**  
-  Clothing is the primary revenue driver (~$100K+)  
-  Outerwear is the lowest performing category (~$15K+)  
+  Clothing is the primary revenue driver ($100K+)  
+  Outerwear is the lowest performing category ($15K+)  
 
 - **Subscription Gap:**  
   Only 27% of customers are currently subscribers, representing a significant growth opportunity  
